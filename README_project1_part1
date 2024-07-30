@@ -1,0 +1,10 @@
+Name: Onkar Kher
+UID: 120407062
+Directory ID: okher
+README for Project1
+1. To run the code as it is you will first have to create an 'ENPM673' folder in your google drive.
+2. In the 'ENPM673' folder you will then have to create another folder named 'Project1'.
+3. In the 'Project1' you will have to create another folder named 'Source'.
+4. In the 'Source' folder you will have to upload the given video and name it as 'object_tacking' and it should be in mp4 format.
+5. The code can be run as it is without changing anything after following these steps. Otherwise the video path and the path to google drive and further will have to be changed accordingly.
+
